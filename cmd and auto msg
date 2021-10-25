@@ -1,0 +1,13 @@
+/*THIS IS RAVANA BOT PLUGIN
+RAVANA 2021 | HACKER RAVANA
+Credit - HACKER RAVANA
+*/
+
+const Ravana = require('../events');
+const {MessageType} = require('@adiwajshing/baileys');
+
+Ravana.addCommand({pattern: 'hi', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+
+    await message.sendMessage("hellow");
+
+}));
