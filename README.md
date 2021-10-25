@@ -1,2 +1,3 @@
-# create-own-plugins
-ඔයාලට ඔයාලගෙම කියල plugins හදන විදිහ.
+#CREATE YOUR OWN PLUGIN FOR WHATSAPP BOT
+
+</>SL RAVANA TEAM
